@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085906236897",
+    "project_id": "ortiqjan-12345",
+    "storage_bucket": "ortiqjan-12345.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085906236897:android:960a09742499e61224cea0",
+        "android_client_info": {
+          "package_name": "uz.ortiqjan.ortiqjan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACeRKfd8kWXJ4iF1wXGc2d1HZtUs4I8_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
